@@ -1,0 +1,22 @@
+{
+  "name": "Asset #7",
+  "symbol": "A",
+  "image": "https://raw.githubusercontent.com/Zarve8/Metadata/main/Asset6.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zarve8/Metadata/main/Asset6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "description": "QuickToken Asset",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": {
+    "name": "QuickToken Assets",
+    "family": "QuickToken"
+  }
+}
