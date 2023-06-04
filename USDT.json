@@ -1,0 +1,22 @@
+{
+  "name": "Quick USD",
+  "symbol": "USDT",
+  "image": "https://raw.githubusercontent.com/Zarve8/Metadata/main/USDT.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zarve8/Metadata/main/USDT.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "description": "QuickToken Proxy USD",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": {
+    "name": "QuickToken Assets",
+    "family": "QuickToken"
+  }
+}
