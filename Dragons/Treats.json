@@ -1,7 +1,7 @@
 {
   "name": "Dragon Treats",
   "description": "A test metadata token for the Solidity game contract system.",
-  "image": "https://example.com/images/trest.png",
+  "image": "https://raw.githubusercontent.com/Zarve8/Metadata/refs/heads/main/Dragons/Treats.png",
   "attributes": [
     {
       "trait_type": "Type",
