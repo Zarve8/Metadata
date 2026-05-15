@@ -1,15 +1,8 @@
 {
   "name": "Dragon Treats",
-  "description": "A test metadata token for the Solidity game contract system.",
+  "symbol": "TREATS",
+  "description": "ERC-20 utility token for the on-chain game ecosystem.",
   "image": "https://raw.githubusercontent.com/Zarve8/Metadata/refs/heads/main/Dragons/Treats.png",
-  "attributes": [
-    {
-      "trait_type": "Type",
-      "value": "Test Token"
-    },
-    {
-      "trait_type": "Rarity",
-      "value": "Rare"
-    }
-  ]
+  "external_url": "https://example.com",
+  "decimals": 18
 }
